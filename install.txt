@@ -10,3 +10,7 @@ g++ your_program.cpp -o your_program -lglut -lGLU -lGL
 run
 
 ./your_program
+
+
+sudo apt update
+sudo apt install freeglut3 freeglut3-dev build-essential
