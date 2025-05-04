@@ -1,0 +1,12 @@
+installment opengl freeglut
+
+sudo apt update
+sudo apt install freeglut3 freeglut3-dev libglew-dev libgl1-mesa-dev libglu1-mesa-dev build-essential
+
+comile
+
+g++ your_program.cpp -o your_program -lglut -lGLU -lGL
+
+run
+
+./your_program
