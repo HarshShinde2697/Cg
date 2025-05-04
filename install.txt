@@ -39,3 +39,10 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
+
+
+
+co in
+
+sudo apt update
+sudo apt install freeglut3-dev
